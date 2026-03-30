@@ -6,11 +6,11 @@
 #include <Adafruit_BME680.h>
 
 // ===== إعدادات الواي فاي والسيرفر =====
-const char* ssid = "M";
-const char* password = "hu94395155";
+const char* ssid = "iphone......";
+const char* password = "91929132";
 
 // حط هنا IP اللابتوب أو السيرفر
-const char* serverName = "http://192.168.68.67:3000/sensor-data";
+const char* serverName = "http://172.20.10.2:3000/sensor-data";
 
 // نفس API_KEY الموجود في ملف .env
 const char* apiKey = "123456";
@@ -159,6 +159,33 @@ void loop() {
   delay(5000);
 }
 
-grt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://dl.espressif.com/dl/package_esp32_index.json
