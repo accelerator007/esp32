@@ -1,0 +1,22 @@
+{
+  "name": "esp32-iot-backend",
+  "version": "1.0.0",
+  "description": "IoT backend with Express and Supabase for ESP32 sensor data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "iot",
+    "esp32",
+    "express",
+    "supabase"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
