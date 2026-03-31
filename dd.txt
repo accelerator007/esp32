@@ -40,3 +40,10 @@ Changed.
 
 Hard resetting via RTS pin...
 Failed uploading: uploading error: exit status 2
+
+
+
+
+
+
+curl http://192.168.131.87:3000
